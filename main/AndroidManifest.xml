@@ -17,7 +17,7 @@
         <activity android:name=".MemoActivity" /> <!-- 등록한 앱의 네이버 지도 API에 해당하는 Client ID값 -->
         <meta-data
             android:name="com.naver.maps.map.CLIENT_ID"
-            android:value="z8azalmgbv" />
+            android:value="test" />
 
         <activity android:name=".MapActivity" /> <!-- 지도 -->
         <activity android:name=".MenuActivity4" /> <!-- 양식 룰렛 -->
